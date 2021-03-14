@@ -6,7 +6,8 @@ import Boxes from './Components/Boxes3.1/Boxes';
 function App() {
   return (
     <div>
-      <Boxes />
+      <Basic />
+      {/* <Boxes /> */}
     </div>
   );
 }
