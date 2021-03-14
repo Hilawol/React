@@ -15,7 +15,7 @@ const Basic = () => {
       <br></br>
       {`${number1}+${number2}=${number1 + number2}`}
       <br></br>
-      {string}
+      {`The string’s length is ${string.length}`}
     </div>
   )
 }
