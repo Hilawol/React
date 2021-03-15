@@ -1,0 +1,28 @@
+.container{
+  background-color: aqua;
+  width:200px;
+  height: 300px;
+   display: flex;
+  padding-top: 20px;
+  margin:auto;
+  flex-direction:column;
+  align-items: center; 
+}
+
+button{
+  position: fixed;
+  height: 20px;
+  width:80px;
+  margin:auto;
+}
+
+.box{
+  margin:auto;
+  height: 100px;
+  width: 100px;
+  background-color: blueviolet;
+}
+
+.hidden{
+  display: none;
+}
