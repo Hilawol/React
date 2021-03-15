@@ -9,9 +9,7 @@ class Box4 extends react.Component {
   render() {
     return <div class="box4">
     </div>
-
   }
-
 }
 
 export default Box4
