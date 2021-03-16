@@ -10,13 +10,15 @@ import Card from './Components/Cards4.2/Card.component';
 import Increment from './Components/Increment7.1/Increment';
 import Mytest from './Components/testEvent/test';
 import HideAndSeek from './Components/Hide_and_seek7.2/HideAndSeek';
+import { LifeCycle } from './Components/LifeCycle8.1/LifCycle';
 
 
 function App() {
   return (
     <div>
 
-      <HideAndSeek />
+      <LifeCycle />
+      {/* <HideAndSeek /> */}
       {/* <Increment /> */}
 
       {/* <Card source="https://icatcare.org/app/uploads/2018/07/Thinking-of-getting-a-cat.png"

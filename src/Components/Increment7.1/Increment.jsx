@@ -16,7 +16,9 @@ class Increment extends Component {
   render() {
     return (<div>
       <button onClick={this.increase}>Increment</button>
-      <input className="counter" type="text" readOnly value={this.state.counter} />
+      <br></br>
+      {this.state.counter}
+      {/* <input className="counter" type="text" readOnly value={this.state.counter} /> */}
     </div>
     )
   }
