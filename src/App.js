@@ -19,8 +19,8 @@ function App() {
   return (
     <div>
 
-      <Spinner />
-      {/* <ChangeBox /> */}
+      {/* <Spinner /> */}
+      <ChangeBox />
       {/* <LifeCycle /> */}
       {/* <HideAndSeek /> */}
       {/* <Increment /> */}
