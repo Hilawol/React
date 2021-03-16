@@ -11,13 +11,17 @@ import Increment from './Components/Increment7.1/Increment';
 import Mytest from './Components/testEvent/test';
 import HideAndSeek from './Components/Hide_and_seek7.2/HideAndSeek';
 import { LifeCycle } from './Components/LifeCycle8.1/LifCycle';
+import ChangeBox from './Components/ChangeingBox8.2/ChangeBox'
+import Spinner from './Components/Spinner9.1/Spinner';
 
 
 function App() {
   return (
     <div>
 
-      <LifeCycle />
+      <Spinner />
+      {/* <ChangeBox /> */}
+      {/* <LifeCycle /> */}
       {/* <HideAndSeek /> */}
       {/* <Increment /> */}
 

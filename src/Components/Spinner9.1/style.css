@@ -1,0 +1,22 @@
+.spninnerDiv{
+  margin: 100px auto;
+}
+
+.content{
+  text-align: center;
+}
+
+.spinner-2 {
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  border-top: 4px solid orange;
+  border-left: 4px solid transparent;
+  animation: rotate 1s linear infinite;
+}
+
+@keyframes rotate {
+  to {
+    transform: rotate(360deg);
+  }
+}
