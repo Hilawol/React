@@ -1,0 +1,24 @@
+body{
+  position: relative;
+}
+
+.myForm{
+  border: 1px solid black;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin:50px auto;
+  width:400px;
+  padding: 20px;
+}
+
+.validateForm{
+  position: relative;
+  border: 1px solid red;
+  padding: 20px;
+  margin:50px auto;
+
+  width:400px;
+  height: 400px;
+  z-index: 10;
+}

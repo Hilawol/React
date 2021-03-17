@@ -1,13 +1,14 @@
 import logo from './logo.svg';
 import './App.css';
-import Checkboxes from './Components/Checkbox11.2/Checkboxes';
+import MyForm from './Components/FormReview11.3/MyForm';
+
 
 
 function App() {
 
   return (
     <div>
-      <Checkboxes />
+      <MyForm />
     </div>
   );
 }
