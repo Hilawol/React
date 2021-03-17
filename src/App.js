@@ -1,13 +1,13 @@
 import logo from './logo.svg';
 import './App.css';
-import ChildToFather from './Components/ChildToFather11.1/ChildToFather';
+import Checkboxes from './Components/Checkbox11.2/Checkboxes';
 
 
 function App() {
 
   return (
     <div>
-      <ChildToFather />
+      <Checkboxes />
     </div>
   );
 }
