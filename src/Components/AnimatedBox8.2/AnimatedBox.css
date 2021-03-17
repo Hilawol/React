@@ -1,0 +1,12 @@
+
+@keyframes moveLeft {
+  from {left: -100px;}
+  to {left: 0px;}
+}
+
+.animation {
+  animation: moveLeft 5s infinite;
+}
+
+
+
