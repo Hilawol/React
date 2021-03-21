@@ -2,7 +2,6 @@ import React, { Component } from 'react'
 
 export default class Card extends Component {
   render() {
-    console.log(this.props.user)
     return (
       <div className="userCard">
         <div className="userName">Name: {this.props.user.name}</div>

@@ -29,7 +29,6 @@ export default class DataMassaging extends Component {
   render() {
     return (
       <div>
-
         <Name names={this.state.names} />
         {this.state.before90.map((u, i) => {
           return <Card user={u} />

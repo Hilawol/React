@@ -1,17 +1,14 @@
 import './App.css';
-import DataMassaging from './Components/ DataMassaging13.1/ DataMassaging';
-
-
+import Avatar from './Components/Avatar13.2/Avatar';
 
 function App() {
 
   return (
     <div>
-      <DataMassaging />
+      <Avatar />
     </div>
   );
 }
-
 export default App;
 
 
