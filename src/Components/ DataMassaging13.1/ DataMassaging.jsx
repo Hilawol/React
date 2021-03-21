@@ -29,12 +29,10 @@ export default class DataMassaging extends Component {
   render() {
     return (
       <div>
-        {/* {this.getBornAfter90()} */}
+
         <Name names={this.state.names} />
         {this.state.before90.map((u, i) => {
-          const fMeats = u.favoriteFoods.meats.join(",");
-          const fFish = u.favoriteFoods.fish.join(",");
-          return < Card key={i} name={u.name} birthday={u.birthday} favoritMeat={fMeats} favoritFish={fFish} />
+          return <Card user={u} />
         })}
       </div>
     )
