@@ -1,5 +1,5 @@
 import './App.css';
-import ChuckNorris from './Components/ChuckNorris12.1/ChuckNorris';
+import DataMassaging from './Components/ DataMassaging13.1/ DataMassaging';
 
 
 
@@ -7,7 +7,7 @@ function App() {
 
   return (
     <div>
-      <ChuckNorris />
+      <DataMassaging />
     </div>
   );
 }
