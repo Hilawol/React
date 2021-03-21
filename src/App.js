@@ -1,6 +1,5 @@
-import logo from './logo.svg';
 import './App.css';
-import MyForm from './Components/FormReview11.3/MyForm';
+import ChuckNorris from './Components/ChuckNorris12.1/ChuckNorris';
 
 
 
@@ -8,7 +7,7 @@ function App() {
 
   return (
     <div>
-      <MyForm />
+      <ChuckNorris />
     </div>
   );
 }
