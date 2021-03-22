@@ -1,11 +1,11 @@
 import './App.css';
-import Avatar from './Components/Avatar13.2/Avatar';
+import Focus from './Components/Focus14.1/Focus';
 
 function App() {
 
   return (
     <div>
-      <Avatar />
+      <Focus />
     </div>
   );
 }
