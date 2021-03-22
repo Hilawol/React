@@ -1,11 +1,11 @@
 import './App.css';
-import Focus from './Components/Focus14.1/Focus';
+import Copy from './Components/Copy14.2/Copy';
 
 function App() {
 
   return (
     <div>
-      <Focus />
+      <Copy />
     </div>
   );
 }

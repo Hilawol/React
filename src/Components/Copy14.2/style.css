@@ -1,0 +1,14 @@
+input{
+  margin:10px;
+}
+
+.copy{
+  width:300px;
+  height: 150px;
+  margin:50px auto;
+  background-color: cadetblue;
+  font-size: 20px;
+  text-align: center;
+  color:white;
+  padding: 20px;
+}
