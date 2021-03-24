@@ -9,7 +9,6 @@ export default class Copy extends Component {
   }
 
   onCopy = () => {
-    console.log(this.textArea);
     this.textArea.current.select();
     document.execCommand('copy');
   }

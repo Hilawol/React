@@ -1,11 +1,11 @@
 import './App.css';
-import Copy from './Components/Copy14.2/Copy';
+import MyAPP from './Components/Products16.1/MyAPP';
 
 function App() {
 
   return (
     <div>
-      <Copy />
+      <MyAPP />
     </div>
   );
 }
