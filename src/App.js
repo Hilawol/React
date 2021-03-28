@@ -1,11 +1,11 @@
 import './App.css';
-import MyAPP from './Components/Products16.1/MyAPP';
+import AnimalShelter from './Components/CrudMiniProject17.1/AnimalShelter';
 
 function App() {
 
   return (
     <div>
-      <MyAPP />
+      <AnimalShelter />
     </div>
   );
 }
