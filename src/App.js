@@ -1,11 +1,11 @@
 import './App.css';
-import Text from './Components/Text18.1/Text';
+import SimpleTodo from './Components/SimpleTodo.18.2/SimpleTodo';
 
 function App() {
 
   return (
     <div>
-      <Text />
+      <SimpleTodo />
     </div>
   );
 }

@@ -1,0 +1,14 @@
+.simpleTodo{
+  width:max-content;
+  margin:100px auto;
+  border:1px solid black;
+  padding: 20px;
+}
+
+.complete{
+  text-decoration: line-through;
+}
+
+span{
+  cursor: pointer;
+}
