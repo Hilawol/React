@@ -1,11 +1,11 @@
 import './App.css';
-import SimpleTodo from './Components/SimpleTodo.18.2/SimpleTodo';
+import WhatsTheTime from './Components/WhatsTheTime18.3/WhatsTheTime';
 
 function App() {
 
   return (
     <div>
-      <SimpleTodo />
+      <WhatsTheTime />
     </div>
   );
 }
