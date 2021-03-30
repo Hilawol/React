@@ -1,11 +1,11 @@
 import './App.css';
-import MarkAndDelete from './Components/MarkAndDelete18.4/MarkAndDelete';
+import SimpleFetch from './Components/SimpleFetch19.1/SimpleFetch';
 
 function App() {
 
   return (
     <div>
-      <MarkAndDelete />
+      <SimpleFetch />
     </div>
   );
 }
