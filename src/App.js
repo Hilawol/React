@@ -1,11 +1,11 @@
 import './App.css';
-import SimpleFetch from './Components/SimpleFetch19.1/SimpleFetch';
+import CountriesOfTheWorld from './Components/CountriesOfTHeWorld.19.2/CountriesOfTheWorld';
 
 function App() {
 
   return (
     <div>
-      <SimpleFetch />
+      <CountriesOfTheWorld />
     </div>
   );
 }
