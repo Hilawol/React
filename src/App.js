@@ -1,11 +1,11 @@
 import './App.css';
-import CountriesOfTheWorld from './Components/CountriesOfTHeWorld.19.2/CountriesOfTheWorld';
+import AlgoliaApi from './Components/AlgoliaApi19.3/AlgoliaApi';
 
 function App() {
 
   return (
     <div>
-      <CountriesOfTheWorld />
+      <AlgoliaApi />
     </div>
   );
 }
