@@ -1,11 +1,11 @@
 import './App.css';
-import AlgoliaApi from './Components/AlgoliaApi19.3/AlgoliaApi';
+import RefactorWithHooks from './Components/RefactorWithHooks.19.4/Avatar'
 
 function App() {
 
   return (
     <div>
-      <AlgoliaApi />
+      <RefactorWithHooks />
     </div>
   );
 }
