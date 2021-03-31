@@ -1,11 +1,11 @@
 import './App.css';
-import Edit from './Components/Editing.21.1/Edit';
+import PlayPauseVideo from './Components/PlayPauseVideo21.2/PlayPauseVideo';
 
 function App() {
 
   return (
     <div>
-      <Edit />
+      <PlayPauseVideo />
     </div>
   );
 }
